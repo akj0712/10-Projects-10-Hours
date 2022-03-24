@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-App</title>
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/3874/3874176.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <!-- <h1>Quiz App</h1> -->
+    <div class="quiz-container" id="quiz">
+        <div class="quiz-header">
+            <h2 id="question">Question Text</h2>
+            <ul id="options">
+                <li>
+                    <input type="radio" id="a" name="answer" value="first" class="answer">
+                    <label for="a" id="a_text"></label>
+                </li>
+                <li>
+                    <input type="radio" id="b" name="answer" value="second" class="answer">
+                    <label for="b" id="b_text"></label>
+                </li>
+                <li>
+                    <input type="radio" id="c" name="answer" value="third" class="answer">
+                    <label for="c" id="c_text"></label>
+                </li>
+            </ul>
+        </div>
+        <button id="submit">Submit</button>
+    </div>
+</body>
+</html>
