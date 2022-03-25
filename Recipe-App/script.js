@@ -42,7 +42,7 @@ async function getMealBySearch(term) {
 }
 
 function addMeal(mealData, random = false) {
-    console.log(mealData);
+    //* console.log(mealData);
     const meal = document.createElement("div");
     meal.classList.add("meal");
     meal.innerHTML = `
