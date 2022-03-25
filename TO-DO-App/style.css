@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: "Cascadia code";
+    margin: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #444;
+    /* justify-content: center; */
+}
+
+h1 {
+    color: rgb(151, 104, 151);
+    text-align: center;
+    opacity: 0.4;
+    font-size: 6rem;
+}
+
+form {
+    /* margin: auto; */
+    max-width: 100%;
+    width: 400px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    display: block;
+    width: 100%;
+    border: none;
+    font-family: inherit;
+    color: #444;
+}
+
+.input::placeholder {
+    color: #b5b5b5;
+}
+
+.todos {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.todos li {
+    border-top: 1px solid #e5e5e5;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 1rem 2rem;
+}
+
+.todos li.completed {
+    text-decoration: line-through;
+    color: #b5b5b5;
+}
+
+.small {
+    margin-top: 1rem;
+    color: #b5b5b5;
+    text-align: center;
+}
