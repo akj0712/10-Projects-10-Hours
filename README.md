@@ -8,7 +8,7 @@
 | 4 | Notes App | Live Demo | 
 | 5 | ToDo App | Live Demo | 
 | 6 | Movie App | Live Demo | 
-| 7 | GitHub Profiles | Live Demo | 
+| 7 | [GitHub Profiles](https://github.com/akj0712/10-Projects-10-Hours/tree/master/GitHub-Profiles) | [Live Demo](https://akj0712-github-profiles.netlify.app/) | 
 | 8 | Drawing App | Live Demo | 
 | 9 | Password Generator | Live Demo | 
 | 10 | Weather App | Live Demo | 
