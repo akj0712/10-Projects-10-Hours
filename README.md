@@ -11,4 +11,4 @@
 | 07 | [GitHub Profiles](https://github.com/akj0712/10-Projects-10-Hours/tree/master/GitHub-Profiles) | [Live Demo](https://akj0712-github-profiles.netlify.app/) | 
 | 08 | [Drawing App](https://github.com/akj0712/10-Projects-10-Hours/tree/master/Drawing-App) | [Live Demo](https://akj0712-drawing-app.netlify.app/) | 
 | 09 | [Password Generator](https://github.com/akj0712/10-Projects-10-Hours/tree/master/Password-Generator) | [Live Demo](https://akj0712-password-generator.netlify.app/) | 
-| 10 | Weather App | Live Demo | 
+| 10 | [Weather App](https://github.com/akj0712/10-Projects-10-Hours/tree/master/Weather-App) | [Live Demo](https://akj0712-weather-app.netlify.app/) | 
