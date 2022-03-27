@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "cascadia code", sans-serif;
+    margin: 0;
+    background-color: #fad0c4;
+    background-image: linear-gradient(315deg, #fad0c4 0%, #f1a7f1 74%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+input {
+    background-color: #f1a7f1;
+    font-family: inherit;
+    border: none;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    min-width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+        rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    margin-bottom: 2rem;
+    border-radius: 25px;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+}
+
+.weather {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.weather h2 {
+    margin-bottom: 0;
+}
+
+.weather p {
+    font-size: 1rem;
+}
